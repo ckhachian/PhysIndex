@@ -1106,7 +1106,7 @@ var db = {
 			"quickName": "h",
 			"representation": "$\\displaystyle{\\textrm{h}}$",
 			"fullName": "Planck's Constant",
-			"description": "The Planck constant (denoted h, also called Planck's constant) is a physical constant that is the quantum of action in quantum mechanics. It originally described the proportionality constant between the energy (E) of a charged atomic oscillator in the wall of a black body, and the frequency ($\\nu$) of its associated electromagnetic wave. It's value is $6.62606957 \\times 10^{-34} J \\cdot s = 4.135667516 \\times 10^{−15} eV \\cdot s$",
+			"description": "The Planck constant (denoted h, also called Planck's constant) is a physical constant that is the quantum of action in quantum mechanics. It originally described the proportionality constant between the energy (E) of a charged atomic oscillator in the wall of a black body, and the frequency ($\\nu$) of its associated electromagnetic wave. It's value is $6.62607004 \\times 10^{-34} J \\cdot s = 4.135667696 \\times 10^{−15} eV \\cdot s$",
 			"units": "$ \\textrm{J} \\cdot \\textrm{s} $",
 			"descriptionUrl": "http://en.wikipedia.org/wiki/Planck_constant",
 			"definitionRepresentation": "$\\left(\\displaystyle{\\textrm{h}}\\right)$",
